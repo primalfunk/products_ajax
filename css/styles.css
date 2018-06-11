@@ -1,0 +1,32 @@
+body {
+  text-align: center;
+  background-color: rgb(220, 227, 235);
+  margin: 0;
+  font-family: 'Sunflower', sans-serif;
+}
+
+.header {
+  font-size: 40px;
+  background-color: lightskyblue;
+}
+
+.btn {
+  display: flex;
+  justify-content: space-around;
+  justify-items: center;
+  align-items: center;
+  width: 50%;
+}
+
+.btn_wrapper {
+  display: flex;
+  justify-content: center;
+  background-color: lightgrey;
+  height: 5%;
+}
+
+.form {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
